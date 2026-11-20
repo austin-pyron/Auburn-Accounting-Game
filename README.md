@@ -1,2 +1,2 @@
 # Auburn-Accounting-Game
-A public accounting game inspired by Auburn.
+Auburn MBA Accounting game for BUSI-7230. Austin Pyron, Christian Knight, Scott Barrett, Kara Sierka
